@@ -34,14 +34,6 @@ If you want to run this project locally, follow these steps:
 ## Contributing
 If you'd like to suggest improvements or report issues, feel free to open a pull request or issue in the repository.
 
-## License
-This project is licensed under the MIT License.
-
-## Contact
-You can reach me via:
-- Email: [your-email@example.com](mailto:your-email@example.com)
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/your-profile)
-
 ---
 Thank you for visiting my portfolio!
 
