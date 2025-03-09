@@ -1,4 +1,4 @@
-# Portfolio Website
+# Portfolio Website 💻
 
 Welcome to my personal portfolio website! This site showcases my projects, skills, and experience. It is hosted on GitHub Pages and can be accessed at [strelec00.github.io](https://strelec00.github.io).
 
